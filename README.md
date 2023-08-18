@@ -6,8 +6,6 @@ If the user gets the correct letter in the right place, the letter box turns gre
 If the user gets the correct letter in the wrong place, the letter box turns yellow.
 If the user gets the wrong letter, the letter box turns gray.
 
-Example: 
-
 The Program we created
 
 Part 1: User manual: 
@@ -26,11 +24,6 @@ If you get the correct answer, type 2 to exit the program. If not you are then a
 If you input “1”, the program asks you for the guess he entered on Wordle. After you input your guess, the program again asks for the sequence in terms of “x”, “y”, “g”. And here the whole process above is repeated, until you get the correct answer!
 
 This set of steps keeps on repeating until the user chooses to exit the program.
-
-
-
-
-
 
 
 
